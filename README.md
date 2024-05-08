@@ -1,5 +1,5 @@
 ### DATE:
-# INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
+# Experiment-01-INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
 ## AIM:
 To interface a digital input (push button) and blink and LED upon activation.
 ## COMPONENTS REQUIRED:
